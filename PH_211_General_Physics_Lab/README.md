@@ -12,5 +12,5 @@
 
 ## Normal Mode Experiment [file](NORM/NORM.ipynb)
 
-## Elastic Plastic Experiment [file](ELPL/ELPL.ipynb)
+## Elastic Plastic Experiment [file](EP/EP.ipynb)
 
