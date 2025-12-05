@@ -1,5 +1,5 @@
 2 576 448
-Vamas File:		d:\ph_213\xps\s3_co.vms
+Vamas File:		d:\ph_213\final xps\s3_co gs.vms
 no_tiles:		5
 53
 m_half_page:		FALSE
@@ -125,8 +125,8 @@ m_cps_label:		CPS
 m_cpbin_label:		Intensity
 m_arbitrary_units_label:		Arbitrary Units
 m_arbitrary_unit_flag:		0
-m_min_ordinate:		-9720.63
-m_max_ordinate:		93947.7
+m_min_ordinate:		-6205.32
+m_max_ordinate:		95250.3
 m_offset_enabled_flag:		0
 m_percentage_offset:		90
 m_exp_variable_left:		FALSE

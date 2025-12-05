@@ -1,5 +1,5 @@
 2 576 448
-Vamas File:		d:\ph_213\xps\s3_2.vms
+Vamas File:		d:\ph_213\final xps\s3_sr gs.vms
 no_tiles:		5
 53
 m_half_page:		FALSE
@@ -297,7 +297,7 @@ m_draw_title:		TRUE
 m_draw_block_comments:		FALSE
 m_draw_acquisition_parameters:		FALSE
 m_draw_components:		TRUE
-m_draw_comp_labels:		TRUE
+m_draw_comp_labels:		FALSE
 m_draw_primary_components:		FALSE
 m_draw_regions:		FALSE
 m_draw_residual:		FALSE
@@ -423,8 +423,8 @@ m_horizontal_label_colour:		 RGB(0,0,0)
 m_abscissa_type:		0
 m_be_label:		Binding Energy (eV)
 m_ke_label:		Kinetic Energy (eV)
-m_min_abscissa:		629.939
-m_max_abscissa:		658.632
+m_min_abscissa:		606.6
+m_max_abscissa:		676.54
 m_data_area_font:		 Font(35,34,700,0,Arial)
 m_data_area_colour:		 RGB(0,0,0)
 m_region_label_font:		 Font(35,34,400,0,Arial)
@@ -580,7 +580,7 @@ m_draw_title:		TRUE
 m_draw_block_comments:		FALSE
 m_draw_acquisition_parameters:		FALSE
 m_draw_components:		TRUE
-m_draw_comp_labels:		TRUE
+m_draw_comp_labels:		FALSE
 m_draw_primary_components:		FALSE
 m_draw_regions:		FALSE
 m_draw_residual:		FALSE
@@ -594,7 +594,7 @@ m_include_exp_variable:		FALSE
 m_draw_box_on_header:		FALSE
 m_draw_graph_box:		TRUE
 m_draw_3D_planes:		TRUE
-m_draw_bg_subtracted:		FALSE
+m_draw_bg_subtracted:		TRUE
 m_normalise_residual:		TRUE
 m_fill_2d_graphs:		FALSE
 m_line_width:		3
@@ -691,8 +691,8 @@ m_cps_label:		CPS
 m_cpbin_label:		Intensity
 m_arbitrary_units_label:		Arbitrary Units
 m_arbitrary_unit_flag:		0
-m_min_ordinate:		53352
-m_max_ordinate:		271985
+m_min_ordinate:		-4923.48
+m_max_ordinate:		202087
 m_offset_enabled_flag:		0
 m_percentage_offset:		90
 m_exp_variable_left:		FALSE
@@ -877,7 +877,7 @@ m_include_exp_variable:		FALSE
 m_draw_box_on_header:		FALSE
 m_draw_graph_box:		TRUE
 m_draw_3D_planes:		TRUE
-m_draw_bg_subtracted:		FALSE
+m_draw_bg_subtracted:		TRUE
 m_normalise_residual:		TRUE
 m_fill_2d_graphs:		FALSE
 m_line_width:		3
@@ -974,8 +974,8 @@ m_cps_label:		CPS
 m_cpbin_label:		Intensity
 m_arbitrary_units_label:		Arbitrary Units
 m_arbitrary_unit_flag:		0
-m_min_ordinate:		25868
-m_max_ordinate:		167005
+m_min_ordinate:		-2743.61
+m_max_ordinate:		131020
 m_offset_enabled_flag:		0
 m_percentage_offset:		90
 m_exp_variable_left:		FALSE
@@ -1174,7 +1174,7 @@ m_new_x1:		0
 m_new_x2:		1
 m_rescale_x_label:		
 m_normalise_display:		FALSE
-m_normalise_marker_energy:		526.379
+m_normalise_marker_energy:		620.588
 m_normalise_marker_intensity:		1
 m_colour_background:		 RGB(255,255,255)
 m_3d_plane_color:		 RGB(255,255,230)
